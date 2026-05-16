@@ -2,6 +2,10 @@
 
 An interactive 3D Rubik's Cube simulator built with C++ and OpenGL (FreeGLUT) as part of a Computer Graphics Sessional project.
 
+| | |
+|---|---|
+| ![alt text](/Images/1.png) | ![alt text](/Images/2.png) |
+
 ## Overview
 
 This project renders a full 3x3x3 Rubik's Cube using individual cubies and supports smooth animated slice rotations. It includes mouse-based camera control, keyboard-driven moves, lighting, and a gradient background to improve visual clarity.
